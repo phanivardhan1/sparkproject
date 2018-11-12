@@ -40,6 +40,9 @@ This command is used to save the result in a output file<br><br>
 | telugu      | 6  |
 | the | 13   |
 
+Through the above table we conclude that the word "the " has highest count in the input data.
+
+## screenshot of  result graph
 
 
  
